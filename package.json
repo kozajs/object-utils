@@ -1,6 +1,6 @@
 {
 	"name": "@kozajs/object-utils",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Object utilities used in the Koza project.",
 	"homepage": "https://github.com/kozajs/object-utils",
 	"publishConfig": {
